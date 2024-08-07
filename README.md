@@ -1,4 +1,5 @@
 ## Hi there 👋
+![](![image](https://github.com/user-attachments/assets/4474f14f-d7a1-4aae-9336-7da5033aa645))
 
 <!--
 **llis9kz/llis9kz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
