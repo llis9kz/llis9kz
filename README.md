@@ -1,5 +1,5 @@
 ## Hi there 👋
-![![image](https://github.com/user-attachments/assets/6a546f0c-85f2-4dc7-b774-118c4215637d)
+![image](https://github.com/user-attachments/assets/6a546f0c-85f2-4dc7-b774-118c4215637d)
 
 <!--
 **llis9kz/llis9kz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
